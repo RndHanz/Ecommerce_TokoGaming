@@ -1,3 +1,3 @@
 ﻿# Ecommerce_TokoGaming
 
-Link Deploy :
+Link Deploy : https://rndhanz.github.io/Ecommerce_TokoGaming/
